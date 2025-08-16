@@ -1,3 +1,4 @@
+@Library('belajar-shared-library') _
 pipeline {
     agent any
 
