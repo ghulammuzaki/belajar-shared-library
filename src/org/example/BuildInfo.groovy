@@ -1,4 +1,6 @@
-package org.examples
+package org.example
+
+
 class BuildInfo {
     String branch
     String job
